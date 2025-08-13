@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,,,git,github,,vscode,linux" />
 </p>
 
 ---
@@ -45,16 +45,6 @@
   <a href="https://www.facebook.com/fahim0201" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:mdfahimahammed347@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### 🐍 Contribution Graph Snake
-
-<p align="center">
-  <img src="https://github.com/FahimAhammedSagor/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 
 
 ---
