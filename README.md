@@ -51,7 +51,7 @@
 ### 🐍 Contribution Graph Snake
 
 <p align="center">
-  <img src="https://github.com/FahimAhammedSagor/FahimAhammedSagorraw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/FahimAhammedSagor/output/github-contribution-grid-snake.svg" />
 </p>
 
 
