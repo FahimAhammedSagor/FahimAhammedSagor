@@ -75,13 +75,4 @@
 </p>
 
 ---
-
-<p align="center">
                                                     💙 🤍💙 🤍💙 🤍💙 
-</p>
-<p align="center">
-  <b>Still coding... still dreaming... still alive 🧠💡</b>
-</p>
-> A developer's life has a rhythm—**Code 💻 Learn 📚 Dream 🌌 Repeat 🔁**
-
----
