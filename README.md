@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm _MD_FA_HIM_</h1>
 <h3 align="center">💻 CST Student | 🌱 Self-Learner | 🚀 Developer | 📷 Photographer | 🎯 Hidden</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Assalamu+Alaikum!;Welcome+to+My+GitHub+Profile;Coding+My+Dreams+Into+Reality..." alt="Typing SVG" />
 </p>
-
 ---
-
 ### 🧠 About Me
 
 - 🎓 Currently studying at **Rangpur Polytechnic Institute**, Department of CST
@@ -21,7 +18,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,,,git,github,,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
 </p>
 ### 📊 GitHub Stats
 
